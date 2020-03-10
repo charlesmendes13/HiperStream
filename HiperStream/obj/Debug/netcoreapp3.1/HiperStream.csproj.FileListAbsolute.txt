@@ -1,0 +1,11 @@
+D:\Visual Studio\HiperStream\HiperStream\obj\Debug\netcoreapp3.1\HiperStream.csprojAssemblyReference.cache
+D:\Visual Studio\HiperStream\HiperStream\obj\Debug\netcoreapp3.1\HiperStream.AssemblyInfoInputs.cache
+D:\Visual Studio\HiperStream\HiperStream\obj\Debug\netcoreapp3.1\HiperStream.AssemblyInfo.cs
+D:\Visual Studio\HiperStream\HiperStream\bin\Debug\netcoreapp3.1\HiperStream.exe
+D:\Visual Studio\HiperStream\HiperStream\bin\Debug\netcoreapp3.1\HiperStream.deps.json
+D:\Visual Studio\HiperStream\HiperStream\bin\Debug\netcoreapp3.1\HiperStream.runtimeconfig.json
+D:\Visual Studio\HiperStream\HiperStream\bin\Debug\netcoreapp3.1\HiperStream.runtimeconfig.dev.json
+D:\Visual Studio\HiperStream\HiperStream\bin\Debug\netcoreapp3.1\HiperStream.dll
+D:\Visual Studio\HiperStream\HiperStream\bin\Debug\netcoreapp3.1\HiperStream.pdb
+D:\Visual Studio\HiperStream\HiperStream\obj\Debug\netcoreapp3.1\HiperStream.dll
+D:\Visual Studio\HiperStream\HiperStream\obj\Debug\netcoreapp3.1\HiperStream.pdb
